@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =======================================================================================================================================
 AWS Cloud Engineer @ CMC TS
 ------------------------------
-I have been working as a Cloud Support Engineer for over a year. While supporting global end-users 24x7x365, I found myself interested in cloud platforms and system aspect. As soon as I had time to look into further, I have already joined in the work force as Cloud Support Engineer, helping maintain the cloud infrastructure following customers baseline and instruction. Currently, I continue my cloud journey as an AWS Cloud Engineer at CMC TS and looking forward to any new knowledge, especially Cloud Infrastructure, Automation, Observation and GenAI.
+I have been working as a Cloud Support Engineer for over 2 years. While supporting global end-users 24x7x365, I found myself interested in cloud platforms and system aspect. As soon as I had time to look into further, I have already joined in the work force as Cloud Support Engineer, helping maintain the cloud infrastructure following customers baseline and instruction. Currently, I continue my cloud journey as an AWS Cloud Engineer at CMC TS and looking forward to any new knowledge, especially Cloud Infrastructure, Automation, and GenAI.
 
 * 🌍  I'm based in Hanoi, Vietnam
 * ✉️  You can contact me at [lamnd.workspace@gmail.com](mailto:lamnd.workspace@gmail.com)
